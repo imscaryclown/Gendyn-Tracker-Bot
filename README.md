@@ -1,1 +1,1 @@
-# Gendyn-Tracker-Bot
+# Gensyn-Tracker-Bot
